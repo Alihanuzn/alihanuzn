@@ -2,7 +2,6 @@
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 
-- 🔭 I’m currently working on [Müşteri Takip](https://github.com/Alihanuzn/Musteri-Takip)
 
 - 🌱 I’m currently learning **C#,.Net,MsSql, Swift**
 
